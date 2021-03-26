@@ -1,4 +1,4 @@
-FROM pytorchlightning/pytorch_lightning:latest-py3.7-torch1.4
+FROM pytorchlightning/pytorch_lightning:latest-py3.6-torch1.5
 
 WORKDIR /
 
