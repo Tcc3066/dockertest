@@ -1,4 +1,4 @@
-FROM pytorch/pytorch:1.4-cuda10.1-cudnn7-runtime
+FROM pytorchlightning/pytorch_lightning:latest-py3.7-torch1.4
 
 WORKDIR /
 
