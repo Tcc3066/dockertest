@@ -1,7 +1,11 @@
-FROM pytorchlightning/pytorch_lightning:base-cuda-py3.7-torch1.4
+# FROM pytorchlightning/pytorch_lightning:base-cuda-py3.7-torch1.4
 
-WORKDIR /
+# WORKDIR /
 
-COPY requirements.txt .
+# COPY requirements.txt .
 
-RUN pip install -r requirements.txt
+# RUN pip install -r requirements.txt
+
+
+FROM 993352270/dockertest:v1.0.6
+FROM liuwenhua/mmskeleton:v1
