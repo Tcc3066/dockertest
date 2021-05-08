@@ -54,13 +54,11 @@ mccabe==0.6.1
 mistune==0.8.4
 mmcv==0.4.3
 mmdet @ https://github.com/open-mmlab/mmdetection/archive/v1.0rc1.zip
-# Editable install with no version control (mmskeleton==0.7rc1+unknown)
--e /mmskeleton
+mmskeleton==0.7rc1+unknown
 nbconvert==5.6.0
 nbformat==4.4.0
 networkx==2.3
-# Editable install with no version control (nms==0.0.0)
--e /mmskeleton/mmskeleton/ops/nms
+nms==0.0.0
 notebook==5.7.8
 numpy==1.17.0
 opencv-python==4.1.0.25
