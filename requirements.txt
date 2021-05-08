@@ -45,8 +45,6 @@ jupyter-core==4.5.0
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 kiwisolver==1.1.0
-# Editable install with no version control (lazy-import==0.2.2)
--e /usr/local/lib/python3.6/dist-packages/lazy_import-0.2.2
 lazyimport==0.0.4
 Mako==1.1.0
 Markdown==3.1.1
