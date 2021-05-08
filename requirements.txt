@@ -54,7 +54,7 @@ mccabe==0.6.1
 mistune==0.8.4
 mmcv==0.4.3
 mmdet @ https://github.com/open-mmlab/mmdetection/archive/v1.0rc1.zip
-mmskeleton==0.7rc1+unknown
+mmskeleton==0.7rc1
 nbconvert==5.6.0
 nbformat==4.4.0
 networkx==2.3
