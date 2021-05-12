@@ -3,6 +3,6 @@ FROM pytorch/pytorch:1.8.1-cuda11.1-cudnn8-runtime
 
 WORKDIR /
 
-COPY requirements.txt .
+#COPY requirements.txt .
 
-RUN pip install -r requirements.txt
+RUN pip install pandas numpy Pillow PyYAML
