@@ -44,7 +44,7 @@ nbconvert==5.6.0
 nbformat==4.4.0
 networkx==2.3
 notebook
-numpy==1.17.0
+numpy
 opencv-python
 optuna==0.15.0
 pandas==0.24.1
